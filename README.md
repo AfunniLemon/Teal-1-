@@ -1,5 +1,7 @@
 # Teal-1-
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AfunniLemon/Teal-1-/HEAD)
+
 This is my new repo to intro software technology
 
 ## Second Level Header
